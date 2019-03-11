@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name":"Louise Hayes",
+    "occupation":"Fullstack Javascript Developer",
+    "description":"I am always learning, having fun with code, creating apps to enhance life, with a focus on modern frameworks, accessibility and PWA's",
+    "image":"profilepic.jpg",
+    "bio":"My career has brought me all over the world, from Sydney in Auzzie to Dungarvan, Ireland and now Portsmouth NH, in U.S.",
+    "contactmessage":"Feel free to make an enquiry regarding your project, or connect for tech advice",
+    "email": "louise@deewhy.ie",
+    "address":{
+      "city":"Portsmouth",
+      "state":"NH"
+    },
+    "website": "www.deewhy.tech",
+    "resumedownload":"http://deewhy.tech/assets/images/LouiseFitzpatrickHayesFullstackDeveloper.pdf",
+    "emaillink":"mailto:louise@deewhy.ie",
+   
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/louise.hayes.7545",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://mobile.twitter.com/louhayes3",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/louise-fitzpatrick-hayes-25304833/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/louisefitzpatrickhayes",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/louise-hayes",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"mailto://louise@deewhy.ie",
+        "className":"fa fa-envelope-square"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have 5 years Web Developer experience, with a focus on modern Javascript Frameworks(ReactJS, Angular, Vue), accessibility and PWA's",
+    "education":[
+      {
+        "school":"UNH",
+        "degree":"Coding Bootcamp",
+        "graduated":"Sep 2017",
+        "description":"I learned to create accessible apps & PWA's in the MERN stack, making Open Source contributions and integrating with AI"
+      },
+      {
+        "school":"Galway University, Ireland",
+        "degree":"Computer Science Degree",
+        "description":"A highly practical computer science course, a fantastic grounding in functional programming concepts and practical coding skills."
+      }
+    ],
+    "work":[
+      {
+        "company":"Business Franchise Review",
+        "title":"Vue JS Developer",
+        "years":"Current Contract since Oct 2018",
+        "description":"Developing Vue Components, Creating REST API integration, creating and customising Toast UI editor as part of an agile team building a CMS for the in-house marketing apps"
+      },
+      {
+        "company":"Robosoft",
+        "title":"Mendix and ReactJS fullstack Developer",
+        "years":"Contract June-Sep 29018",
+        "description":"Developed Javascript Mendix UI widgets in ReactJS"
+      },
+      {
+        "company":"Mobile Programming LLC",
+        "title":"Angular Frontend Developer",
+        "years":"Contract March - May 2018",
+        "description":"Developed Angular Data VIsualization app from scratch without using 3rd party chart libraries - 100% SVG"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"100%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"55%"
+      },
+      {
+        "name":"ANgular",
+        "level":"40%"
+      },
+      {
+        "name":"VueJS",
+        "level":"10%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"40%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"Firebase",
+        "level":"10%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Charts-SVG-Angular",
+        "category":"Angular Chart App, can be whitelabled, renders multiple datasets and chart types, tooltips, click events to extract data on each element",
+        "image":"Angular5chartssvgapps.png",
+        "url":"https://angular5chartsvg.herokuapp.com/"
+      },
+      {
+        "title":"RealUp",
+        "category":"ReactJS-Materialize Hackathon winning App for Imposter Syndrom",
+        "image":"realup-thumbnail.jpg",
+        "url":"https://realupapp.herokuapp.com/"
+      },
+      {
+        "title":"ChatterDox",
+        "category":"An AI Watson IBM Speech-to-text school reading Lab tool created in React",
+        "image":"chatterdox.jpg",
+        "url":"https://chatterdox.herokuapp.com/"
+      },
+      {
+        "title":"EventMonster",
+        "category":"A Handlebars JS PTA Portal",
+        "image":"eventmonster.jpg",
+        "url":"https://eventmonster.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  } 
+}
