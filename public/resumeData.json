@@ -81,6 +81,12 @@
         "title":"Angular Frontend Developer",
         "years":"Contract March - May 2018",
         "description":"Developed Angular Data VIsualization app from scratch without using 3rd party chart libraries - 100% SVG"
+      },
+      {
+        "company":"Deewhy LLC",
+        "title":"Web Developer",
+        "years":"2012-2016",
+        "description":"Conceptualised brochure and E-commerce sites, developed in Javascript, HTML, CSS and deployed to AWS."
       }
     ],
     "skills":[
@@ -128,7 +134,7 @@
       {
         "title":"Charts-SVG-Angular",
         "category":"Angular Chart App, can be whitelabled, renders multiple datasets and chart types, tooltips, click events to extract data on each element",
-        "image":"Angular5chartssvgapps.png",
+        "image":"charts-svg-angular.jpg",
         "url":"https://angular5chartsvg.herokuapp.com/"
       },
       {
