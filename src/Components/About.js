@@ -27,8 +27,8 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name} (</span> 
-                     <span>{email}<a href={emaillink} alt="louise hayes email link" className="fa fa-envelope"></a>)</span>
+						   <span>{name}   (</span> 
+                     <span>{email} <a href={emaillink} alt="louise hayes email link" className="fa fa-envelope"></a>  )</span>
 					   </p>
                </div>
                <div className="columns download">
